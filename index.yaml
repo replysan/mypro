@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-04T18:54:20.29542317+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 417731bbfd6bcc898b666a398f0d0013f0c16a08cc0577312317f18b42722689
+    name: mychart
+    type: application
+    urls:
+    - mychart-0.1.0.tgz
+    version: 0.1.0
+  sangin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-04T18:54:20.295843306+05:30"
+    description: A Helm chart for Kubernetes
+    digest: fe94d6d23f493211ff0bf2fb6493e95f25858daa3a5e7a1581447ede0757027b
+    name: sangin
+    type: application
+    urls:
+    - sangin-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-04T18:54:20.294776968+05:30"
